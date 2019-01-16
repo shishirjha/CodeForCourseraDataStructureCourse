@@ -1,2 +1,2 @@
 # CodeForCourseraDataStructureCourse
-Repo containing assignment code for coursera course "Data Structures"
+In this repository i will add all the codes asked in assignment in the course "Data Structures" in Coursera which will be accepted succesfully. I will improve and add code in different languages if i learn new languages.For now, i will add all implementations in C++ but as I know python too, I will come back later and add implementations in python or languages if time permits.
